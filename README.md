@@ -20,6 +20,11 @@ I am a **Full-Stack Physical & Digital Engineer** and business founder who has s
 
 ---
 
+**OWNER & PRINCIPAL ENGINEER** | Reds Handyman Services *(2017 – Present)*
+* **Industry-Leading Recognition:** Recognized as **The Best Handyman in Temple, Texas (2026)** by the Quality Business Awards, securing a 95%+ quality ranking representing the top 1% of regional businesses.
+* **Customer Trust Architecture:** Maintained a 4.5+ star verified public rating across independent local indexes; built a reputation for complete financial honesty, rapid same-day emergency dispatch, and complex multi-trade craftsmanship.
+---
+
 ### 💡 My Philosophy
 Whether I'm scaling a warehouse floor, fixing an engine, or writing a custom graphics override, **I build for the person using it.** Technology should always be human-centric, reliable, and grounded in real-world application. 
 
