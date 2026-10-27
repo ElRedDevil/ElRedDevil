@@ -1,9 +1,14 @@
 # Hi there, I'm Kevin 👋
 
 I am a **Full-Stack Physical & Digital Engineer** and business founder who has spent nearly 35 years exploring machine logic, hardware fabrication, and human-centric design. From coding raw machine registers in the 6th grade to building bespoke VR simulation peripherals today, my passion lies in bridging the gap between physical mechanisms and virtual software pipelines.
-* **2016 – Present:** Microcontroller Firmware, Python, 3D Design/Printing, Embedded Timers (Hands-on ESP32/Arduino hardware development; actively experimenting with timer modules for precision sensor synchronization across custom flight sticks, gear shifters, and peripheral inputs).
 
+---
 
+### 🕹️ What I Build & Engineer
+* **Low-Level & Embedded Logic:** Register-level firmware optimization, 6502 Assembly, hardware timer (TIM) registers, and custom ESP32/Arduino microcontroller integrations.
+* **Custom VR Inputs:** Designing and coding bespoke Unity XR locomotion systems, custom device input mappings, and custom communication wrappers to bypass engine bottlenecks.
+* **Physical-to-Virtual Hardware Loops:** Designing, 3D printing, and wiring custom physical gaming peripherals from scratch—including flight sticks, sim-racing gear shifters, input panels, and specialized camera rigs.
+* **Infrastructure & Operations:** Multi-year warehouse logistics planning (\$1.5M budgets), network deployment (Avaya telephony, line drops, file servers), and custom e-commerce database migrations.
 
 ---
 
