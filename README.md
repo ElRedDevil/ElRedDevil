@@ -5,7 +5,7 @@ I am a **Full-Stack Physical & Digital Engineer** and business founder who has s
 ---
 
 ### 🕹️ What I Build & Engineer
-* **Low-Level & Embedded Logic:** Register-level firmware optimization, 6502 Assembly, hardware timer (TIM) registers, and custom ESP32/Arduino microcontroller integrations.
+* **Low-Level & Embedded Logic:** Register-level firmware optimization, 6502 Assembly, and custom ESP32/Arduino microcontroller integrations.
 * **Custom VR Inputs:** Designing and coding bespoke Unity XR locomotion systems, custom device input mappings, and custom communication wrappers to bypass engine bottlenecks.
 * **Physical-to-Virtual Hardware Loops:** Designing, 3D printing, and wiring custom physical gaming peripherals from scratch—including flight sticks, sim-racing gear shifters, input panels, and specialized camera rigs.
 * **Infrastructure & Operations:** Multi-year warehouse logistics planning (\$1.5M budgets), network deployment (Avaya telephony, line drops, file servers), and custom e-commerce database migrations.
